@@ -31,7 +31,7 @@ Calculadora hecha en Mokoto como backend y Js como frontend
 
 -Genera la carpeta declarations
 ```
-  dfx generate test icp_hello_world_motoko_backend
+  dfx generate icp_hello_world_motoko_backend
 ```
 
 -Despues ejecuta el deploy del fronted un dfx deploy
